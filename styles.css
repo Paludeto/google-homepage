@@ -130,3 +130,7 @@ body {
     background-position: 2% 98%; 
     background-position-y: 8px;
 }
+
+input {
+    padding-left: 50px;
+}
