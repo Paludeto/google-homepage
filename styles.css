@@ -116,7 +116,7 @@ form {
 }
 
 #f1 {
-    padding-left: 800px;
+    padding-left: 845px;
 }
 
 body {
@@ -128,5 +128,5 @@ body {
     background-size: 27px 27px;
     background-repeat: no-repeat;
     background-position: 2% 98%; 
-    background-position-y: 10px;
+    background-position-y: 8px;
 }
